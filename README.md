@@ -1,4 +1,4 @@
-# assess1
+# assess
 
 ## Project setup
 ```
